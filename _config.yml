@@ -1,2 +1,3 @@
 name: Mateus Aubin
 markdown: kramdown
+permalink: /blog/:year/:month/:title
